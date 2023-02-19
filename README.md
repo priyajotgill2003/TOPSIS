@@ -11,7 +11,7 @@ $ pip install topsis-priyajot-102003293
 
 ## Example
 
-<img width="302" alt="image" src="https://user-images.githubusercontent.com/72308930/219967292-41f53d70-b388-439b-98af-e40dc6c987c3.png">
+<img width="1161" alt="image" src="https://user-images.githubusercontent.com/72308930/219967345-e05ecf72-333a-49a5-8087-559249047417.png">
 
 
 Output saved to Final.csv
