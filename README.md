@@ -11,7 +11,7 @@ $ pip install topsis-priyajot-102003293
 
 ## Example
 
-|Fund Name    P1    P2   P3    P4     P5
+Attempt|Fund Name|    P1  |  P2 |  P3 |   P4  |   P5|
 0        M1  0.84  0.71  6.7  42.1  12.59
 1        M2  0.91  0.83  7.0  31.7  10.11
 2        M3  0.79  0.62  4.8  46.7  13.23
