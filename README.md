@@ -10,6 +10,7 @@ $ pip install topsis-priyajot-102003293
 
 
 ## Example
+
 |Fund Name    P1    P2   P3    P4     P5
 0        M1  0.84  0.71  6.7  42.1  12.59
 1        M2  0.91  0.83  7.0  31.7  10.11
@@ -19,7 +20,9 @@ $ pip install topsis-priyajot-102003293
 5        M6  0.88  0.77  6.5  51.5  14.91
 6        M7  0.66  0.44  5.3  48.9  13.83
 7        M8  0.93  0.86  3.4  37.0  10.55
+
 Output saved to Final.csv
+
    Fund Name    P1    P2   P3    P4     P5  Performance Score  Rank
 0        M1  0.84  0.71  6.7  42.1  12.59           0.644719     2
 1        M2  0.91  0.83  7.0  31.7  10.11           0.680361     1
@@ -30,7 +33,7 @@ Output saved to Final.csv
 6        M7  0.66  0.44  5.3  48.9  13.83           0.376340     8
 7        M8  0.93  0.86  3.4  37.0  10.55           0.514142     5
 
-## License
+### License
 
 MIT
 
