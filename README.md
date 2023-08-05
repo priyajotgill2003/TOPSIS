@@ -1,4 +1,4 @@
-# TOSIS
+# TOPSIS
 ## Topsis stands for 'Technique for Order of Preference by Similarity to Ideal Solution'.
 TopsisPy is a Python Package implementing [Topsis](https://en.wikipedia.org/wiki/TOPSIS) method used for multi-criteria decision analysis.
 
