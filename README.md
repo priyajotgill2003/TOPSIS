@@ -1,5 +1,5 @@
-# topsis-priyajot-102003293
-Topsis stands for 'Technique for Order of Preference by Similarity to Ideal Solution'.
+# TOSIS
+## Topsis stands for 'Technique for Order of Preference by Similarity to Ideal Solution'.
 TopsisPy is a Python Package implementing [Topsis](https://en.wikipedia.org/wiki/TOPSIS) method used for multi-criteria decision analysis.
 
 ## Installation
@@ -7,6 +7,7 @@ Install the Package using the command -
 ```s
 $ pip install topsis-priyajot-102003293
 ```
+![image](https://github.com/priyajotgill2003/TOPSIS/assets/72308930/9d862332-d568-44dd-a9fd-cd0753b42edc)
 
 
 ## Example
